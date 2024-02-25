@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Nicole Ni
+
+- 🌱 I’m currently learning Computer Science at Northeastern University
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: My Spotify playlist is color coordinated!!
+
 <!--
 **nicolen-22/nicolen-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
