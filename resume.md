@@ -1,2 +1,5 @@
-Nicole Ni
-Computer Science Major w/ a Minor in Mathematics @ Northeastern University
+# Nicole Ni
+
+## Education
+**Northeastern University**, Khoury College of Computer Sciences
+*Bachelor of Science in Computer Science, Minor in Mathematics*
